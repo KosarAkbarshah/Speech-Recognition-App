@@ -1,5 +1,9 @@
 # Speech-Recognition-API🤖
+
 App using speech recognition API with real-time processing that writes down your words while you speak!🗣🎇
+
+Give it a try with a link below!
+
 
 ![Screenshot 2024-09-24 104516](https://github.com/user-attachments/assets/872ab74a-03fa-41e2-a90c-fafba3235f83)
 
